@@ -1,0 +1,2 @@
+This case describes the friendship network in a German boys' school class. Nodes represent pupils and edges represent the friendship between pupils.
+In a German boys' school class, the class ranking order has an impact on pupil popularity. Generally, pupils with good performance are more popular. But there are five popular pupils whose positions in the rank ordering are not distinguished. Four of them often dominate extracurricular games. The other pupil "buys into" friendships with candy.

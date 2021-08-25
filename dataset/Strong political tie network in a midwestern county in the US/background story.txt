@@ -1,0 +1,2 @@
+This case describes the network of strong political ties among the 14 most prominent politicians in a mid-Western County in the U.S. Nodes represent the politicians and edges represent strong political ties.
+At present, a federally mandated new jail is to be built, which is supported by the county executive but opposed by the county auditor. They are strong political rivals with their own supporters. The city mayor also disapproves of the construction of the jail, but holds some consistent political positions with the county executive and keeps close political relations.

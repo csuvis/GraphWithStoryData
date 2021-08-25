@@ -1,0 +1,2 @@
+This case describes the network of friendships between members of the TI's baseball team. Nodes represent the members of the TI team. Edges represent the friendships between members.
+Descriptions of three popular members in the TI team are as follows. Ron is the most popular player in the team. Tom is regarded as one of TI's best players with seven friends in the team. Frank is coach's son who receives preferential treatment from his father in terms of playing time. Frank has five friends in the team, including Ron and Tom.

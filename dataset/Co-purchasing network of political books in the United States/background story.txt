@@ -1,0 +1,2 @@
+This case describes the network of political books of the United States. Nodes represent books about US politics sold by the online bookseller Amazon.com. Edges represent frequent co-purchasing of books by the same buyer.
+The books were sold in 2004, which was the year of the presidential election of the United States. Election candidates' political ideologies affected the sale of political books. The political ideologies of these books mainly included "conservative", "liberal", or "neutral". The books of same political ideology tended to be co-purchased.

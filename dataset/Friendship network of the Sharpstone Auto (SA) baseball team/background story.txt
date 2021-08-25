@@ -1,0 +1,2 @@
+This case describes the network of friendships between members of the SA's baseball team. Nodes represent the members of the SA team and edges represent the friendships between members.
+The following provides descriptions of three popular members in the SA team. Justin is seen by many as the best player in the league. He is the team leader. Harry is the best pitcher and Justin's best friend. Whit is a good friend of both Justin and Harry. Justin, Harry and Whit constitute the heart and soul of the SA team.

@@ -1,0 +1,2 @@
+This case describes a social network of bottlenose dolphins inhabiting in Doubtful Sound, New Zealand. Nodes represent dolphins and edges represent frequent associations between dolphins.
+These bottlenose dolphins can be divided into two groups with a total of 62 dolphins. A feature of this network is that each small group has a "center", which shows that not all individuals have equal positions in this society. Some dolphins play crucial roles in contacting the two groups. They are also important in maintaining the cohesion of the entire dolphin community.

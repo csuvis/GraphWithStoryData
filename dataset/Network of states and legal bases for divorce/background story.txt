@@ -1,0 +1,2 @@
+This case describes a network consisting of 50 states in the USA and 9 legal bases for divorce. Nodes represent states or legal bases of divorce. Edges represent the association between states and legal bases.
+Every state in the USA has its own legal bases of divorce. If a state allows a legal base of divorce, there will be a connection between the state and the legal base in this network.
